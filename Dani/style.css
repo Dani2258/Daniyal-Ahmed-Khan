@@ -1,0 +1,92 @@
+body{
+    margin: 50px;
+    padding: 50px;
+    
+}
+.btn-primary{
+    width: 150px;
+}
+.container-fluid{
+align-items: center;
+
+cursor: pointer;
+
+}
+li:hover{
+    border-bottom: 3px solid green;
+}
+#div2{
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.pic{
+    border: none;
+    height: 90%;
+    width: 80%;
+    margin-right: 80px;
+}
+.text-primary{
+    margin-top: 90px;
+}
+#btn1{
+    border-color: black;
+}
+
+
+.butn{
+    border: none;
+    border-radius: 50px;
+    height: 30px;
+}
+.navbar{
+    border-radius: 30px;
+}
+.pics{
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.hub{
+    margin-top: 40px;
+}
+.donate-div-btn{
+    height: 50px;
+    width: 160px;
+    border-radius: 10px;
+    background-color: #8dc63f;
+    border-color: #8dc63f;
+}
+
+.donate-div-btn:hover{
+    height: 60px;
+    width: 180px;
+}
+.donate-div-text{
+    background-color: white;
+    height: 50px;
+    width: 140px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 14px;
+    padding-top: 15px;
+}
+
+.donate-div-text:hover{
+    color: white;
+    background-color: black;
+    height: 60px;
+    width: 160px;
+    padding-top: 20px;
+    cursor: pointer;
+}
+.donate-div{
+    display: flex;
+    min-height: 100px;
+    width: 97%;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #B6EF4933;
+    border-radius: 10px;
+    padding: 10px;
+}
+
